@@ -1,6 +1,5 @@
 package edu.eci.cvds.tdd.aerodescuentos;
 
-import edu.eci.cvds.tdd.aerodescuentos.CalculadorDescuentos;
 import org.junit.Assert;
 import org.junit.Test;
 
